@@ -1,0 +1,3 @@
+from 15 Jan 2021 price of Pink Morsel got increased from $3 to $5. 
+
+from quantity data visualisation, there is drop in quantity sold from 15 Jan 2021 due to increase in price. 
