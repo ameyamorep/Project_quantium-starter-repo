@@ -1,10 +1,7 @@
-# from sales_dash_app import app
-
 import chromedriver_autoinstaller
 chromedriver_autoinstaller.install()
 
 from regionwise_dash_app import app_3
-
 
 
 def test_header_present(dash_duo):

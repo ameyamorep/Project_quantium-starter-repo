@@ -1,3 +1,10 @@
 from 15 Jan 2021 price of Pink Morsel got increased from $3 to $5. 
 
 from quantity data visualisation, there is drop in quantity sold from 15 Jan 2021 due to increase in price. 
+
+task 1 - Setting up local development env. 
+task 2 - Data processing. 
+task 3 - Creat a dashboard. 
+task 4 - Improve ur dash application. Add a radio button to pick a region from , N, S, E, S, All. 
+task 5 - Test the dash application. Here the browser will automatically open the dashboard and test if heading, visualisation and region picker (radio buttons) are present. 
+task 6 - Automate test suite. (activate virtual env, and run tests performed in task 5. )
